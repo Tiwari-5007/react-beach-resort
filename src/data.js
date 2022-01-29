@@ -15,7 +15,7 @@ import img10 from "./images/room-10.jpeg";
 import img11 from "./images/room-11.jpeg";
 import img12 from "./images/room-12.jpeg";
 
-let  data = [
+const  items = [
   {
     sys: {
       id: "1"
@@ -759,4 +759,4 @@ let  data = [
   }
 ];
 
-export default data;
+export default items;
