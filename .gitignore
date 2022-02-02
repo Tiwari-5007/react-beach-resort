@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-.envdevelopment
+.env.development
 
 # production
 /build
